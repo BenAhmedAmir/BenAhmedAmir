@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BenAhmedAmir
 - 👀 I’m interested in backend dev
-- 🌱 I’m currently learning mern stack 
 - 📫 How to reach me benahmedamir@hotmail.fr 
 - 🎯 my LinkedIn https://www.linkedin.com/in/amir-ben-ahmed/
 
