@@ -21,6 +21,7 @@
 - **Message Brokers**: Kafka, RabbitMQ  
 
 ### 📌 Other Technologies  
+- **Architecture**: Microservices, Distributed Systems, Event-Driven Architecture  
 - **API**: REST, WebSockets  
 - **Authentication**: OAuth, JWT, RBAC  
 - **Frontend (Basic Knowledge)**: Angular 
